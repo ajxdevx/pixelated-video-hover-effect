@@ -1,0 +1,17 @@
+{
+  "name": "anassjid-pixelated-video-hover-effect",
+  "version": "1.0.0",
+  "description": "Pixelated video hover effect with Three.js grid deformation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": ["three.js", "video", "hover", "pixelated", "webgl"],
+  "author": "AJ",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "three": "^0.185.0",
+    "vite": "^8.1.0"
+  }
+}
